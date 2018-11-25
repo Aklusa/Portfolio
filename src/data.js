@@ -6,9 +6,9 @@ navProjects:'Projekty',
 navContact:'Kontakt',
 
 aboutAbout:'Słów kilka',
-aboutAboutContent:'Nazywam się Arkadiusz Klusa. Jestem osobą pozytywną, posiadającą dystans do siebie i otwartą na ludzi. Lubię pracę w zespole, a także potrafię pracować samemu. Jestem otwarty na wyzwania oraz poznawanie nowych rzeczy. Interesuje się sztukami walki oraz grami zespołowymi. Lubię przeczytać ciekawy kryminał oraz obejrzeć dobry film.',
+aboutAboutContent:'Nazywam się Arkadiusz Klusa. Jestem osobą pozytywną, posiadającą dystans do siebie i otwartą na ludzi. Lubię zarówno pracę w zespole, jak i indywidualną. Jestem otwarty na wyzwania oraz poznawanie nowych rzeczy. Interesuję się sztukami walki oraz grami zespołowymi. W wolnych chilach lubię przeczytać ciekawy kryminał oraz obejrzeć dobry film.',
 aboutEducation:'Edukacja',
-aboutEducationContent:'Ukończyłem studia inżynierskie na Politechnice Wrocławskiej - kierunek Energetyka. Pierwszą styczność z programowaniem miałem w szkole średniej. Obecnie od około roku rozwijam się w technologiach front-end. Wiedzę z programowania pozyskuję między innymi z książek oraz kursów internetowych. Ukończyłem także kurs programowania "CodersCamp", organizowany przez stowarzyszenie CodersCrew oraz platformę ChallengeRocket, we Wrocławiu. Natomiast na warsztatach organizowanych przez firmę Kiwee poznałem metodykę zwinną Scrum.',
+aboutEducationContent:'Ukończyłem studia inżynierskie na Politechnice Wrocławskiej - kierunek Energetyka. Pierwszą styczność z programowaniem miałem w szkole średniej. Od roku doskonale umiejętności z technologii front-end. Wiedzę z zakresu programowania pozyskuję między innymi z podręczników oraz kursów internetowych. Ukończyłem kurs programowania "CodersCamp", organizowany przez stowarzyszenie CodersCrew oraz platformę ChallengeRocket we Wrocławiu. Uczestniczyłem w warsztatach organizowanych przez firmę Kiwee, w trakcie których poznałem metodykę zwinną Scrum.',
 
 skillsHtml5Content:'Tworzenie aplikacji WWW w standardach HTML5.',
 skillsCss3Content:'Stylowanie aplikacji, tworzenia animacji oraz responsywności z wykorzystaniem CSS3 oraz SASS.',
